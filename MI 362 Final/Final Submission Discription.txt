@@ -1,0 +1,3 @@
+With my final project I have made a blog site. 
+
+I used ghost plug in(100), have multiple pages, 4 with an external website as well(300), Custom CSS acomplished through bootstrap(200), Hosted on Heroku (100), Custom Domain, bloginternship.mooo.com(100), Grammar(100), Photos (50), and finally I could use a third party font icon (50) to total it out to 1000 points. I since all HTML and CSS was created using code I will leave that decision to you if you wish to reward the points or not for the category mostly code.
